@@ -13,7 +13,7 @@
         "fastapi",
         "dashboard"
       ],
-      "repo": "https://github.com/dqikfox/TESSERACT",
+      "repo": "https://github.com/optimusio/TESSERACT",
       "path": "C:/Users/KING/Projects/TESSERACT",
       "service": {
         "port": 8705,
@@ -43,7 +43,7 @@
         "rag",
         "knowledge"
       ],
-      "repo": "https://github.com/dqikfox/NEXUS.git",
+      "repo": "https://github.com/optimusio/NEXUS.git",
       "path": "E:/ultron-memory/nexus-core",
       "service": {
         "port": 8650,
@@ -73,13 +73,13 @@
         "cron",
         "dgm"
       ],
-      "repo": "https://github.com/dqikfox/evolution-stack.git",
+      "repo": "https://github.com/optimusio/evolution-stack.git",
       "path": "E:/ultron-memory/evolution-stack",
       "launcher": "C:/Users/KING/AppData/Local/hermes/scripts/self_evolution_daemon.cmd",
       "links": [
         {
           "label": "Repo",
-          "url": "https://github.com/dqikfox/evolution-stack"
+          "url": "https://github.com/optimusio/evolution-stack"
         }
       ]
     },
@@ -118,7 +118,7 @@
         "stripe",
         "pwa"
       ],
-      "repo": "https://github.com/dqikfox/krysys-shop",
+      "repo": "https://github.com/optimusio/krysys-shop",
       "path": "C:/Users/KING/Projects/krysys-shop",
       "service": {
         "port": 8500,
@@ -151,12 +151,12 @@
       "tags": [
         "data"
       ],
-      "repo": "https://github.com/dqikfox/krysys-catalog",
+      "repo": "https://github.com/optimusio/krysys-catalog",
       "path": "C:/Users/KING/Projects/krysys-catalog",
       "links": [
         {
           "label": "Repo",
-          "url": "https://github.com/dqikfox/krysys-catalog"
+          "url": "https://github.com/optimusio/krysys-catalog"
         }
       ]
     },
@@ -172,19 +172,19 @@
         "brand",
         "site"
       ],
-      "repo": "https://github.com/dqikfox/lummings",
+      "repo": "https://github.com/optimusio/lummings",
       "path": "C:/Users/KING/projects/lumming",
       "links": [
         {
           "label": "Live site",
-          "url": "https://dqikfox.github.io/lummings/"
+          "url": "https://optimusio.github.io/lummings/"
         },
         {
           "label": "Character codex",
-          "url": "https://dqikfox.github.io/lummings/marketing/character-codex.html"
+          "url": "https://optimusio.github.io/lummings/marketing/character-codex.html"
         }
       ],
-      "public_health": "https://dqikfox.github.io/lummings/",
+      "public_health": "https://optimusio.github.io/lummings/",
       "hosted": true
     },
     {
@@ -198,7 +198,7 @@
       "tags": [
         "creative"
       ],
-      "repo": "https://github.com/dqikfox/pixel",
+      "repo": "https://github.com/optimusio/pixel",
       "path": "C:/Users/KING/Projects/pixel",
       "service": {
         "port": 8520,
@@ -224,7 +224,7 @@
         "unity",
         "vr"
       ],
-      "repo": "https://github.com/dqikfox/QHYSICS",
+      "repo": "https://github.com/optimusio/QHYSICS",
       "path": "C:/Users/KING/Projects/QHYSICS",
       "links": []
     },
@@ -240,7 +240,7 @@
         "unity",
         "vr"
       ],
-      "repo": "https://github.com/dqikfox/faraday",
+      "repo": "https://github.com/optimusio/faraday",
       "path": "C:/Users/KING/Projects/faraday",
       "links": []
     },
@@ -256,12 +256,12 @@
         "corpus",
         "site"
       ],
-      "repo": "https://github.com/dqikfox/pathwaytoscripture",
+      "repo": "https://github.com/optimusio/pathwaytoscripture",
       "path": "C:/Users/KING/Projects/pathwaytoscripture",
       "links": [
         {
           "label": "Site",
-          "url": "https://dqikfox.github.io/pathwaytoscripture/"
+          "url": "https://optimusio.github.io/pathwaytoscripture/"
         }
       ]
     },
@@ -276,7 +276,7 @@
       "tags": [
         "data"
       ],
-      "repo": "https://github.com/dqikfox/throne-intelligence",
+      "repo": "https://github.com/optimusio/throne-intelligence",
       "path": "C:/Users/KING/Projects/throne-intelligence",
       "links": []
     },
@@ -306,7 +306,7 @@
         "voice",
         "accessibility"
       ],
-      "repo": "https://github.com/dqikfox/vision",
+      "repo": "https://github.com/optimusio/vision",
       "path": "C:/Users/KING/Projects/vision",
       "links": []
     },
@@ -321,7 +321,7 @@
       "tags": [
         "agent"
       ],
-      "repo": "https://github.com/dqikfox/ultron_agent",
+      "repo": "https://github.com/optimusio/ultron_agent",
       "path": "C:/Users/KING/Projects/ultron_agent",
       "links": []
     },
@@ -371,7 +371,7 @@
       "tags": [
         "tooling"
       ],
-      "repo": "https://github.com/dqikfox/mainframe",
+      "repo": "https://github.com/optimusio/mainframe",
       "path": "C:/Users/KING/Projects/mainframe",
       "links": []
     },

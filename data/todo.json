@@ -70,7 +70,7 @@
       "status": "done",
       "priority": "high",
       "due": "",
-      "notes": "reality-engine carried 85 local-identity commits. Rewritten with the history-preserving rewriter and published: 85/85 now read as dqikfox, 15 third-party commits preserved, and main was left untouched at 94 third-party commits. A bug in the publisher - a remote ref table read after it was needed - was found and fixed on the way."
+      "notes": "reality-engine carried 85 local-identity commits. Rewritten with the history-preserving rewriter and published: 85/85 now read as optimusio, 15 third-party commits preserved, and main was left untouched at 94 third-party commits. A bug in the publisher - a remote ref table read after it was needed - was found and fixed on the way."
     },
     {
       "id": "t-audit-final",
